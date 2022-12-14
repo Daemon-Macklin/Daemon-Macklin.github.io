@@ -1,0 +1,121 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Daemon Macklin
+    tagline: Software Engineer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: daemon.macklin@outlook.com
+    timezone: GMT
+    website: resume.dmacklin.com #do not add http://
+    linkedin: daemon-macklin-99939a161
+    github: Daemon-Macklin
+
+    interests:
+      title: Interests
+      info:
+        - item: Traveling
+          link:
+
+        - item: Gaming
+          link:
+
+
+career-profile:
+    title: Career Profile
+    summary: |
+        Software Engineer, currently looking for new opportunities that will allow me to develop my technical and personal skills. 
+        Experienced with software development techniques, data science methodologies, devops practices, 
+        datacenter management and looking to learn new technologies and methods to solve complex problems.
+education:
+    title: Education
+    info:
+      - degree: BSc in Applied Computing in the Internet of Things
+        university: South East Technological University
+        time: 2016 - 2020
+        details: |
+          Achived a first class honours. Studied various computer science subjects giving me a solid foundation with which to start my career. 
+experiences:
+    title: Experiences
+    info:
+      - role: Software Engineer
+        time: January 2021 - Present
+        company: ServisBOT, Waterford Ireland
+        details: |
+            - Design, develop and maintain serverless microservices for AI powered chatbot platform.
+            - Bring features to production based on user requirements.
+            - Design, develop and maintain AI tooling for real-time learning and feedback on NLU performance.
+            - Performed on call duties to monitor system health.
+      - role: Junior FullStack Developer
+        time: August 2019 - January 2021
+        company: Handheld.ie, Waterford Ireland
+        details: |
+            - Develop and maintain Flask and PostgREST APIs.
+            - Develop and maintain Angular applications.
+            - Develop aintaining Postgres database.
+      - role: Intern
+        time: January 2019 - August 2019
+        company: Telecommunications Software and Systems Group, Waterford Ireland
+        details: |
+            - Work on Enterprise Ireland innovation vouchers, developing prototypes for SMEs.
+            - Work with “ICHEC” to maintain the supercomputer “KAY”.
+            - Assist in maintaining and enhancing the TSSG datacenter.
+            - Deploy and maintain companywide services such as Openstack and Gitlab using Ansible.
+projects:
+    title: Projects
+    intro: >
+      A few projects I've made during College. 
+    assignments:
+      - title: MyT-Platform
+        link: "https://github.com/Daemon-Macklin/MyT-Platform"
+        tagline: MyT is a cloud agnostic orchestration and management tool for IOT platforms in the cloud. Links to a Vuejs frontend, Flask backend with Terraform orchestration. 
+
+      - title: Singe Transferable Vote Algorithm
+        link: "https://github.com/Daemon-Macklin/STValgorithm"
+        tagline: An implementation of an STV algorithm to count votes and determine a winner based on the number of seats open, written in Haskell using functional programming principals
+
+      - title: Driver Eye Monitoring
+        link: "https://github.com/Daemon-Macklin/Driver-Eye-Monitoring"
+        tagline: "Matlab scripts used to detected if a driver has their eyes open or closed based on an image of a face. Using a support vector machine model and a more simple circle detection technique"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    area:
+      - name: Languages
+        items:
+          - name: Python
+          - name: Javascript
+          - name: Java
+          - name: Haskell
+      - name: Frameworks
+        items:
+          - name: FastAPI
+          - name: Express
+          - name: Docker
+          - name: Tensorflow
+          - name: VueJs
+          - name: React
+          - name: Flask
+      - name: Cloud Technologies
+        items:
+          - name: Lambda(AWS)
+          - name: Dynamo(AWS)
+          - name: ECS(AWS)
+          - name: Other AWS services
+          - name: Openstack
+          - name: Google Cloud/Firebase
+
+      - name: Databases
+        items:
+          - name: MySQL
+          - name: Dynamo
+          - name: SQLite
+          - name: Postgres

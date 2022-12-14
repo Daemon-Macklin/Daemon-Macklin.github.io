@@ -83,7 +83,11 @@ projects:
 
       - title: Driver Eye Monitoring
         link: "https://github.com/Daemon-Macklin/Driver-Eye-Monitoring"
-        tagline: "Matlab scripts used to detected if a driver has their eyes open or closed based on an image of a face. Using a support vector machine model and a more simple circle detection technique"
+        tagline: Matlab scripts used to detected if a driver has their eyes open or closed based on an image of a face. Using a support vector machine model and a more simple circle detection technique
+
+      - title: Resume Webpage
+        link: "https://github.com/Daemon-Macklin/Daemon-Macklin.github.io"
+        tagline: The site you're looking at. Built with jekyll
 
 skills:
     title: Skills &amp; Proficiency

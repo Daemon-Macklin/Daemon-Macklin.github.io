@@ -27,13 +27,17 @@ sidebar:
         - item: Gaming
           link:
 
+        - item: Cooking
+          link:
+
+
 
 career-profile:
     title: Career Profile
     summary: |
         Software Engineer, currently looking for new opportunities that will allow me to develop my technical and personal skills. 
         Experienced with software development techniques, data science methodologies, devops practices, 
-        datacenter management and looking to learn new technologies and methods to solve complex problems.
+        datacentre management and looking to learn new technologies and methods to solve complex problems.
 education:
     title: Education
     info:
@@ -43,7 +47,7 @@ education:
         details: |
           Achived a first class honours. Studied various computer science subjects giving me a solid foundation with which to start my career. 
 experiences:
-    title: Experiences
+    title: Experience
     info:
       - role: Software Engineer
         time: January 2021 - Present
@@ -59,15 +63,15 @@ experiences:
         details: |
             - Develop and maintain Flask and PostgREST APIs.
             - Develop and maintain Angular applications.
-            - Develop aintaining Postgres database.
+            - Develop and maintain Postgres database.
       - role: Intern
         time: January 2019 - August 2019
         company: Telecommunications Software and Systems Group, Waterford Ireland
         details: |
             - Work on Enterprise Ireland innovation vouchers, developing prototypes for SMEs.
             - Work with “ICHEC” to maintain the supercomputer “KAY”.
-            - Assist in maintaining and enhancing the TSSG datacenter.
-            - Deploy and maintain companywide services such as Openstack and Gitlab using Ansible.
+            - Assist in maintaining and enhancing the TSSG datacentre.
+            - Deploy and maintain company-wide services such as Openstack and Gitlab using Ansible.
 projects:
     title: Projects
     intro: >
@@ -77,17 +81,17 @@ projects:
         link: "https://github.com/Daemon-Macklin/MyT-Platform"
         tagline: MyT is a cloud agnostic orchestration and management tool for IOT platforms in the cloud. Links to a Vuejs frontend, Flask backend with Terraform orchestration. 
 
-      - title: Singe Transferable Vote Algorithm
+      - title: Single Transferable Vote Algorithm
         link: "https://github.com/Daemon-Macklin/STValgorithm"
-        tagline: An implementation of an STV algorithm to count votes and determine a winner based on the number of seats open, written in Haskell using functional programming principals
+        tagline: An implementation of an STV algorithm to count votes and determine a winner based on the number of seats open, written in Haskell using functional programming principles.
 
       - title: Driver Eye Monitoring
         link: "https://github.com/Daemon-Macklin/Driver-Eye-Monitoring"
-        tagline: Matlab scripts used to detected if a driver has their eyes open or closed based on an image of a face. Using a support vector machine model and a more simple circle detection technique
+        tagline: Matlab scripts used to detected if a driver has their eyes open or closed based on an image of a face. Using a support vector machine model and a more simple circle detection technique.
 
       - title: Resume Webpage
         link: "https://github.com/Daemon-Macklin/Daemon-Macklin.github.io"
-        tagline: The site you're looking at. Built with jekyll
+        tagline: The site you're looking at, built with jekyll.
 
 skills:
     title: Skills &amp; Proficiency

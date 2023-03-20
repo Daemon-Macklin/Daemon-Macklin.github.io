@@ -35,9 +35,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Software Engineer, currently looking for new opportunities that will allow me to develop my technical and personal skills. 
-        Experienced with software development techniques, data science methodologies, devops practices, 
-        datacentre management and looking to learn new technologies and methods to solve complex problems.
+        Software Engineer with 3 years of experience creating backend services in Javascript and Python. Currently developing tools with OpenAI to assist businesses with their chat bot performance. 
 education:
     title: Education
     info:
@@ -53,10 +51,10 @@ experiences:
         time: January 2021 - Present
         company: ServisBOT, Waterford Ireland
         details: |
-            - Design, develop and maintain serverless microservices for AI powered chatbot platform.
-            - Bring features to production based on user requirements.
-            - Design, develop and maintain AI tooling for real-time learning and feedback on NLU performance.
-            - Performed on call duties to monitor system health.
+          - Design, develop and maintain Javascript microservices for AI powered chatbot platform.  
+          - Design, develop and maintain AI tooling technology using Python and Tensorflow for real-time learning and feedback on NLU performance. 
+          - Deploying applications to AWS using DynamoDB, Lambda, ECS, etc.
+          - Bring features to production based on user requirements.
       - role: Junior FullStack Developer
         time: August 2019 - January 2021
         company: Handheld.ie, Waterford Ireland
@@ -109,6 +107,7 @@ skills:
           - name: Express
           - name: Docker
           - name: Tensorflow
+          - name: OpenAI
           - name: VueJs
           - name: React
           - name: Flask

@@ -4,12 +4,12 @@
 
 Dear friends,
 
-We're thrilled to share that we're tying the knot! Mark your calendars for Wednesday 17th July 2022, as we'd be honored to have you celebrate this special day with us. More details to follow soon!
+We're thrilled to share that we're tying the knot! Mark your calendars for Wednesday 17th July 2024, as we'd be honored to have you celebrate this special day with us. More details to follow soon!
 
 ![Save the](images/saveTheDateCropped.png){align=center loading=lazy}
 
 ## Date
-Wednesday 17th July 2022.
+Wednesday 17th July 2024.
 
 ## Location
 

@@ -1,6 +1,6 @@
 # Wedding Site
 
-A basic wedding site built with mkdocs.
+Our basic wedding site built with mkdocs.
 
 ## Dev
 

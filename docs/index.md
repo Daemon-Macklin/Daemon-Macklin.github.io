@@ -7,4 +7,6 @@ Welcome to our wedding website, stay tuned for more updates soon!
 
 ## Latest Updates
 
+### [Invitations!](Invitation)
+
 ### [Save The Date!](SaveTheDate)

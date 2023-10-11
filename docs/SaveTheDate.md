@@ -9,7 +9,7 @@ We're thrilled to share that we're tying the knot! Mark your calendars for Wedne
 ![Save the](images/saveTheDateCropped.png){align=center loading=lazy}
 
 ## Date
-Wednesday 17th July 2024.
+Wednesday 17th July 2024 at 2pm.
 
 ## Location
 

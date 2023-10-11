@@ -1,0 +1,12 @@
+[data-md-color-scheme="theme-pink"] {
+    --md-primary-fg-color:        #fbe2f7;
+    --md-primary-fg-color--light: #fbe2f7;
+    --md-primary-fg-color--dark:  #fbe2f7;
+    --md-primary-bg-color:               #000000;
+    --md-primary-bg-color--light:        #000000;
+    --md-footer-fg-color:                #000000;
+    --md-footer-fg-color--light:         #000000;
+    --md-footer-fg-color--lighter:       #000000;
+    --md-footer-bg-color:                #fbe2f7;
+    --md-footer-bg-color--dark:          #fbe2f7;
+  }

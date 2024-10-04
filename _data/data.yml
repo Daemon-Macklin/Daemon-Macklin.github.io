@@ -35,7 +35,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Software Engineer with 3 years of experience creating backend services in Javascript and Python. Currently developing tools with OpenAI to assist businesses with their chat bot performance. 
+        Software Engineer with 5 years of experience creating backend services in Javascript and Python on AWS. Looking for new challenges and opportunities to progress my career.  
 education:
     title: Education
     info:
@@ -55,6 +55,7 @@ experiences:
           - Design, develop and maintain AI tooling technology using Python and Tensorflow for real-time learning and feedback on NLU performance. 
           - Deploying applications to AWS using DynamoDB, Lambda, ECS, etc.
           - Bring features to production based on user requirements.
+          - Research and develop business ready solutions with Large Language Models.
       - role: Junior FullStack Developer
         time: August 2019 - January 2021
         company: Handheld.ie, Waterford Ireland

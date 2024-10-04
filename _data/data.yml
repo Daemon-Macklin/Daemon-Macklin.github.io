@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Daemon Macklin
     tagline: Software Engineer
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.JPEG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: daemon.macklin@outlook.com
@@ -43,7 +43,7 @@ education:
         university: South East Technological University
         time: 2016 - 2020
         details: |
-          Achived a first class honours. Studied various computer science subjects giving me a solid foundation with which to start my career. 
+          Achieved a first class honours. Studied various computer science subjects giving me a solid foundation with which to start my career. 
 experiences:
     title: Experience
     info:
@@ -127,3 +127,8 @@ skills:
           - name: Dynamo
           - name: SQLite
           - name: Postgres
+
+      - name: CICD Pipelines
+        items:
+          - name: Github Actions
+          - name: Codebuild(AWS)
